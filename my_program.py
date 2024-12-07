@@ -1,5 +1,6 @@
 def my_super_function():
     print('What an awesome print!')
+    print('Hello? world!')
 
 def main():
     print('My first git program')
